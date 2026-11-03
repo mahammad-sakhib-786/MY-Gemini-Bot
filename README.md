@@ -1,4 +1,4 @@
-# My Chatbot
+# MY-Gemini-Bot
 
 A simple chatbot in Python using the free Google Gemini API.
 
